@@ -11,8 +11,7 @@ _You can reach me through:_
 <a href="https://www.linkedin.com/in/maria-eduarda-alonso-ba12a11b3/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-_Languages (in order of preference):_
+</div>_Languages (in order of preference):_
 - Portuguese
 - English
 - French

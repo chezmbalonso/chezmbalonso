@@ -1,4 +1,4 @@
-###_wir sagen_
+### _wir sagen_
 _willkommen, bienvenue, welcome_
 
 International Relations graduate now pursuing a second degree in Physics. Some particular interests I’m keen to explore include the development of AI-related technologies and their social impacts. I’m currently getting started with essential programming skills, focusing on learning and understanding Python.

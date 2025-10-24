@@ -1,16 +1,16 @@
-## Hi there 👋
+###_wir sagen_
+_willkommen, bienvenue, welcome_
 
-<!--
-**chezmbalonso/chezmbalonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+International Relations graduate now pursuing a second degree in Physics. Some particular interests I’m keen to explore include the development of AI-related technologies and their social impacts. I’m currently getting started with essential programming skills, focusing on learning and understanding Python.
 
-Here are some ideas to get you started:
+_You can reach me through:_
+<div>
+<a href = "mailto:mbalonso@usp.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/maria-eduarda-alonso-ba12a11b3/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Languages (in order of preference):_
+- Portuguese
+- English
+- French
+- Spanish
